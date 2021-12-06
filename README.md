@@ -1,5 +1,5 @@
 # Real World Machine Learning Model 
-*Objectives*
+*Objectives*:
 
 >**_Perform data cleaning & feature engineering_**
 
