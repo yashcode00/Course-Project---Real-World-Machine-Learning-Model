@@ -1,4 +1,4 @@
-# Course-Project-Real World Machine Learning Model
+# Real World Machine Learning Model
 *Objectives*
 
 >**_Perform data cleaning & feature engineering_**
@@ -13,4 +13,5 @@ _Kaggle Link: [Bond Price Prediction](https://www.kaggle.com/c/benchmark-bond-tr
 The Benchmark Bond Trade Price Challenge is a competition to predict the next price that a US corporate bond might trade at. Contestants are given information on the bond including current coupon, time to maturity and a reference price computed by Benchmark Solutions.  Details of the previous 10 trades are also provided.  
 
 ###### Methods Used
-       - dsfjns
+1. Modules in python
+   - Pandas
