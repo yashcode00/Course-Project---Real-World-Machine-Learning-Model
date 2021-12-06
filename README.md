@@ -23,7 +23,12 @@ The Benchmark Bond Trade Price Challenge is a competition to predict the next pr
      - Min-Max scaler (*for splitting into train,valid and test sets*)
      - PCA (*for data reduction*)
      - Linear Regression
-     - RandomForestRegressor (* for random forest method*)
+     - RandomForestRegressor (*for random forest method*)
    - xgboost 
-     - XGBRegressor  (for GBM)
+     - XGBRegressor  (*for GBM*)
+ 2. Models trained
+    - Linear Regression (*Best RMSE loss: 5.0800902042018965 on Validation Set )
+    - Random Forest (*Best RMSE loss: 2.298014466986494 on Validation Set)
+    - Gradient Boosting Machines, GBM (*Best RMSE loss: 2.1976847276813976 on Validation Set)
+ 3. Along with fitting and predicting using the different models, Hyperparameter tuning has also been done to obtain best results.
    
