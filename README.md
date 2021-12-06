@@ -3,7 +3,7 @@
 
 >**_Training, compare & tune multiple models_**
 
-## Project Details | ####### Kaggle Link: [Bond Price Prediction](https://www.kaggle.com/c/benchmark-bond-trade-price-challenge)
+## Project Details | ###### Kaggle Link: [Bond Price Prediction](https://www.kaggle.com/c/benchmark-bond-trade-price-challenge)
 
 **Benchmark Bond Trade Price Challenge**
 
