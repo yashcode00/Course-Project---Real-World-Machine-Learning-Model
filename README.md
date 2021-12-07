@@ -33,5 +33,8 @@ The Benchmark Bond Trade Price Challenge is a competition to predict the next pr
     - Gradient Boosting Machines, GBM ( *Best RMSE loss: 2.1976847276813976 on Validation Set*)
  3. Along with fitting and predicting using the different models, Hyperparameter tuning has also been done to obtain best results.
 
+# _Result
+The GBM technique gave the best results on validation set thus can be further used to make predictions on test set._
+
 Thanks
    
